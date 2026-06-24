@@ -76,7 +76,6 @@ ___
   <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white" alt="ArgoCD" />
 </p>
 
-___
 
 
 . 
