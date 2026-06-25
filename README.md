@@ -73,7 +73,7 @@ Soluções utilizando ESP32 e Arduino para coleta de dados, monitoramento e comu
 
 ### Ferramentas
 
-`Git` • `GitHub` ` • ``Docker`
+`Git` • `GitHub` ` • Docker`
 
 ---
 
