@@ -87,9 +87,9 @@ Soluções utilizando ESP32 e Arduino para coleta de dados, monitoramento e comu
 
 📧 E-mail: mateusgomess.dev@gmail.com
 
-💼 LinkedIn: linkedin.com/in/seuperfil
+💼 LinkedIn: https://www.linkedin.com/in/mateus-gomes-5a7859374?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-🐙 GitHub: github.com/seuusuario
+🐙 GitHub: https://github.com/mateusgomiz
 
 📱 WhatsApp: (82) 99151-8205
 
