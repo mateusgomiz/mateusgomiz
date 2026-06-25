@@ -14,15 +14,6 @@ Trabalho no desenvolvimento de aplicações completas, desde a modelagem de banc
 
 Atualmente estou desenvolvendo um **aplicativo para meu artigo acadêmico** e mantenho projetos web em repositórios privados, focados em inovação, escalabilidade e experiência do usuário.
 
----
-
-## 🇺🇸 About Me
-
-I'm **Mateus Gomes**, a **25-year-old Computer Engineering student** and **Full Stack Developer** with experience in web development, mobile applications, embedded systems, and IoT solutions.
-
-I build complete software solutions, from database design and API development to modern web and mobile interfaces. I also develop projects using **ESP32**, **Arduino**, and IoT technologies, connecting hardware and software to create smart and efficient systems.
-
-Currently, I'm developing a **mobile application for my academic research project** and maintaining private web projects focused on innovation, scalability, and user experience.
 
 ---
 
