@@ -85,7 +85,7 @@ Soluções utilizando ESP32 e Arduino para coleta de dados, monitoramento e comu
 
 ## Contato / Contact
 
-📧 E-mail: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+📧 E-mail: mateusgomess.dev@gmail.com
 
 💼 LinkedIn: linkedin.com/in/seuperfil
 
