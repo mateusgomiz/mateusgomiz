@@ -31,7 +31,7 @@ Criação de aplicativos móveis voltados para produtividade, automação e solu
 
 Projetos com ESP32, Arduino e sensores diversos, automação, monitoramento em tempo real e integração com plataformas web.
 
-### Software Engineering
+### Engenharia de Software Moderna 
 
 Modelagem de sistemas, análise de requisitos, versionamento de código, arquitetura de software e desenvolvimento orientado a boas práticas.
 
@@ -91,5 +91,5 @@ Soluções utilizando ESP32 e Arduino para coleta de dados, monitoramento e comu
 
 🐙 GitHub: github.com/seuusuario
 
-📱 WhatsApp: Disponível sob solicitação
+📱 WhatsApp: (82) 99151-8205
 
